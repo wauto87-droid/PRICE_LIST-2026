@@ -1,14 +1,19 @@
 {
-  "name": "Schneider 2026",
-  "short_name": "BrandMate",
-  "description": "Enterprise Workflow Automation Tool 2026",
+  "name": "Schneider Price List 2026",
+  "short_name": "Schneider 2026",
+  "description": "BrandMate Technical Solutions Workflow Automation",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#0f172a",
-  "theme_color": "#0f172a",
+  "theme_color": "#2563eb",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/5968/5968204.png",
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
